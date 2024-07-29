@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react-swc"
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://Milin7.github.io/tip-calculator-with-ts",
+  base: "https://github.com/Milin7/tip-calculator-with-ts/",
 })
